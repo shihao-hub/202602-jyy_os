@@ -1,0 +1,26 @@
+# Compiled executables
+hello
+hello_c
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+*.so
+*.dylib
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
