@@ -1,8 +1,5 @@
-# Compiled executables
-hello
-hello_c
-*.exe
-*.out
+# Build directory
+build/
 
 # Object files
 *.o
